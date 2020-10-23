@@ -1,5 +1,7 @@
 <h1>hi, I am rebornbd</h1>
 
+<p><img src="https://github-readme-stats.vercel.app/api?username=rebornbd&amp;show_icons=true&theme=merko" alt="GitHub Stats"></p>
+
 <h5>popular repositories</h5>
 <table>
   <thead align="center">
@@ -17,9 +19,5 @@
      </tr>
   </tbody>
 </table>
-
-<h5>github stats</h5>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebornbd&layout=compact;show_icons=true" alt="GitHub Most Frequent Languages used by me"></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=rebornbd&amp;show_icons=true&theme=merko" alt="GitHub Stats"></p>
 
 <p>⏰ Updated on Fri, 23 Oct 2020 06:23:12 GMT</p>
