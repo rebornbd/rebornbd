@@ -1,6 +1,6 @@
 <h3>hi, I am <a href="https://github.com/rebornbd/" target="_blank">rebornbd</a></h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=rebornbd&amp;show_icons=true&theme=merko" alt="GitHub Stats"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=rebornbd&amp;show_icons=true" alt="GitHub Stats"></p>
 
 <h5>popular repositories</h5>
 <table>
